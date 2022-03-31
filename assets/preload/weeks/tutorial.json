@@ -1,20 +1,31 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		[
+			"Tutorial",
+			"gf",
+			[
+				146,
+				0,
+				73
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
+	"storyName": "Getting Ready For Your Worst NightMare",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
