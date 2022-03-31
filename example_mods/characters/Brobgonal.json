@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-263,
+				-57
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "Brobgonal idle"
+		},
+		{
+			"offsets": [
+				-245,
+				-69
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Brobgonal down"
+		},
+		{
+			"offsets": [
+				-175,
+				-50
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Brobgonal left"
+		},
+		{
+			"offsets": [
+				-340,
+				-65
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Brobgonal right"
+		},
+		{
+			"offsets": [
+				-262,
+				-37
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Brobgonal up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Brobgonal",
+	"position": [
+		10,
+		370
+	],
+	"healthicon": "bandubutmidget",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		115,
+		51
+	],
+	"camera_position": [
+		71,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
