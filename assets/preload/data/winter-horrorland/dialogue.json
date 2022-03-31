@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "T  H A T I S I T"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "I H A V E H A D I T W I T H Y O U"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "P R E P A R E T O M E E T Y O U R D OO M"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "AYO WHAT THE HECK IS THAT?!?!?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You DO know that this is a typical FNF mod week format, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ummmm....of course I knew that! I knew that all along....heh...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bruh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "T I M E T O D I E"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "PLEASE JUST START THE SONG ALREADY!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "OKAY!!!!"
+		}
+	]
+}
