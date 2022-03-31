@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hallo thaer freeend :)))))"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm sorry but who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am teh cool guy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lord of all cool guys lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about we sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "taki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea sure ok"
+		}
+	]
+}
