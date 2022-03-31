@@ -1,0 +1,49 @@
+{
+	"storyName": "Your Worst Nightmare",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Deez",
+			"funnibambi",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"Sus",
+			"bandubutmidget",
+			[
+				175,
+				175,
+				173
+			]
+		],
+		[
+			"Triggered",
+			"bambi",
+			[
+				95,
+				95,
+				93
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
