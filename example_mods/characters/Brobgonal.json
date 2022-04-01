@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-263,
 				-57
 			],
-			"indices": [],
-			"fps": 16,
 			"anim": "idle",
-			"loop": false,
-			"name": "Brobgonal idle"
+			"fps": 16,
+			"name": "Brobgonal idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-245,
 				-69
 			],
-			"indices": [],
-			"fps": 16,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Brobgonal down"
+			"fps": 16,
+			"name": "Brobgonal down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-175,
 				-50
 			],
-			"indices": [],
-			"fps": 16,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Brobgonal left"
+			"fps": 16,
+			"name": "Brobgonal left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-340,
 				-65
 			],
-			"indices": [],
-			"fps": 16,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Brobgonal right"
+			"fps": 16,
+			"name": "Brobgonal right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-262,
 				-37
 			],
-			"indices": [],
-			"fps": 16,
 			"anim": "singUP",
-			"loop": false,
-			"name": "Brobgonal up"
+			"fps": 16,
+			"name": "Brobgonal up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "bandubutmidget",
 	"flip_x": false,
 	"healthbar_colors": [
-		15,
-		115,
-		51
+		255,
+		255,
+		255
 	],
 	"camera_position": [
 		71,
