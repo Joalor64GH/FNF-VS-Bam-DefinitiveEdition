@@ -265,7 +265,7 @@ class FreeplayState extends MusicBeatState
 			ratingSplit[1] += '0';
 		}
 
-		scoreText.text = 'Social Credit: ' + lerpScore + ' (' + ratingSplit.join('.') + '%)';
+		scoreText.text = 'SOCIAL CREDIT: ' + lerpScore + ' (' + ratingSplit.join('.') + '%)';
 		positionHighscore();
 
 		var upP = controls.UI_UP_P;
