@@ -9,16 +9,16 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "cool"
+			"name": "bruh"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bambic",
+	"image": "characters/ohno",
 	"position": [
 		160,
 		430
 	],
-	"healthicon": "bambi",
+	"healthicon": "die",
 	"flip_x": false,
 	"healthbar_colors": [
 		60,

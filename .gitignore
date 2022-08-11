@@ -4,16 +4,39 @@ APIStuff.hx
 art/build_x32-officialrelease.bat
 art/build_x64-officialrelease.bat
 art/test_x64-debug-officialrelease.bat
+# Newgrounds IO Stuff
+source/NGio.hx
+source/io/
+# Misc
+Preloader.hx
+
+### Crash Stuff
+crash-dialog/
+build-crash-dialog.bat
+build-crash-dialog-linux.sh
+build-crash-dialog-mac.sh
+
+### FNF-Bot
+FNFBot.exe
+
+### GameJolt-Specific
+source/GJKeys.hx
+source/GameJolt.hx
+
+### Source Testing
+source_test/
 
 ### VS Code
 export/*
 .vscode/*
-*.code-workspace
+.DS_Store
 # Local history which shouldn't be shared.
-.history
+desktop.ini
+.history/
 .ionide
 # ! means a file should be added regardless of it it gets ignored prior.
 # Including to allow others to use already set-up configuration tweaked for the project.
+!.code-workspace
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json

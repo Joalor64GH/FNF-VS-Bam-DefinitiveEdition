@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 16,
-			"name": "Brobgonal idle",
+			"name": "Stupid idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 16,
-			"name": "Brobgonal down",
+			"name": "Stupid down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 16,
-			"name": "Brobgonal left",
+			"name": "Stupid left",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 16,
-			"name": "Brobgonal right",
+			"name": "Stupid right",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "singUP",
 			"fps": 16,
-			"name": "Brobgonal up",
+			"name": "Stupid up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Brobgonal",
+	"image": "characters/WHYYOULITTLE",
 	"position": [
 		10,
 		370
 	],
-	"healthicon": "bandubutmidget",
+	"healthicon": "annoyed",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,

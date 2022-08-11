@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "bambicorn",
+		"player2": "bamMAD",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -15063,7 +15063,7 @@
 		"gfVersion": "gf",
 		"events": [],
 		"player3": null,
-		"song": "Winter Horrorland",
+		"song": "Triggered",
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "mallEvil",

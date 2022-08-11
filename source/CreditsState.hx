@@ -81,6 +81,14 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+		    ['The VS Bam Team'],
+			['Joalor64',		'joalor64',		'Project Leader\nCoder, Musician, SFX, Artist, Dialogue',							'https://www.youtube.com/channel/UC4tRMRL_iAHX5n1qQpHibfg',	'00B3FF'],
+			[''],
+			['Special Thanks'],
+			['Choome Zafyah',		'choome',		'Derpy BF Sprites',							'https://gamebanana.com/members/2047636',	'00D916'],
+			['GenoX',			'genox',		'FNF Voicebanks',						'https://www.youtube.com/c/GenoXLOID',		'6E6E6E'],
+			['You',				'face',			'For playing :)',					'https://discord.gg/ScMB5ZX2mE',			'7E00FF'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],

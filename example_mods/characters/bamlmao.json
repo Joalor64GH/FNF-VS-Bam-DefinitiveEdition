@@ -8,7 +8,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "MARCELLO NOTE DOWN",
+			"name": "DUMBDUMB NOTE DOWN",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "MARCELLO idle dance",
+			"name": "DUMBDUMB idle dance",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "MARCELLO NOTE LEFT",
+			"name": "DUMBDUMB NOTE LEFT",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "MARCELLO NOTE UP",
+			"name": "DUMBDUMB NOTE UP",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "MARCELLO NOTE RIGHT",
+			"name": "DUMBDUMB NOTE RIGHT",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bambi-old",
+	"image": "characters/bam",
 	"position": [
 		160,
 		430
 	],
-	"healthicon": "funnibambi",
+	"healthicon": "bam",
 	"flip_x": true,
 	"healthbar_colors": [
 		255,

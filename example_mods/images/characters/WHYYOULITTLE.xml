@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WHYYOULITTLE.png"><SubTexture name="Stupid down0000" x="0" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid down0001" x="254" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid up0000" x="508" y="0" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid up0001" x="0" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid right0000" x="254" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid right0001" x="508" y="254" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid left0000" x="0" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid left0001" x="254" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid idle0000" x="508" y="508" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid idle0001" x="0" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid idle0002" x="254" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+<SubTexture name="Stupid idle0003" x="508" y="762" width="254" height="254" frameX="0" frameY="0" frameWidth="254" frameHeight="254" />
+</TextureAtlas>
